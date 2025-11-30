@@ -1,5 +1,4 @@
-# Fine-Tuning-and-Evaluation-of-Transformer-Models-on-Vietnamese-NLP-Tasks
-# 🇻🇳 Fine-tune & Đánh giá mô hình Transformer trên dữ liệu tiếng Việt  
+# Fine-tune & Đánh giá mô hình Transformer trên dữ liệu tiếng Việt  
 # Giới thiệu dự án  
 Repository này chứa mã nguồn, báo cáo và tài liệu minh họa cho **ba mô hình Transformer** được fine-tune trên **dữ liệu tiếng Việt**, gồm:
 
